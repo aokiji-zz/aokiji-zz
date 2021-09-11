@@ -1,0 +1,2 @@
+Olá, sou Marx. Desenvolvedor interessado em estudar back-end e atualmente estudando NODEJS/JAVA e seus ecossistemas. Atualmente me aventuro pelo mundo front-end em CSS e React para entender e conseguir entregar uma experiência melhor ao usuário.
+Acredito que além da experiência fornecida aos usuários (algo extremamente importante), a segurança das aplicações devem ser alvo de atenção também, uma vez que sistemas estão cada vez mais conectados e junto a isso se aumenta a complexidade dos códigos. Zelar por uma boa arquitetura e fluxo de dados é essencial para o longo prazo
